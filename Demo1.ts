@@ -1,5 +1,5 @@
 function jspang() {
-    let web: string = "Hello World";
+    let web: string = '是真的吗？';
     console.log(web);
 }
 
